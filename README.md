@@ -81,5 +81,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```
 2. Execute the script:
    ```sh
-   python income.py
+   python gender.py
    ```
